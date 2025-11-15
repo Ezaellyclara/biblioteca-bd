@@ -1,0 +1,45 @@
+
+body {
+    padding-top: 40px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+
+p {
+    text-align: center;
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 30px;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+
+button {
+    background-color: #0d6efd;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+border-radius: 8px;
+    font-size: 17px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: 0.2s ease;
+    margin: 10px auto;
+    display: block; /* Centraliza */
+    width: 200px;
+}
+
+button:hover {
+    background-color: #0b5ed7;
+}
